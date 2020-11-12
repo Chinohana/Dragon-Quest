@@ -48,7 +48,6 @@ int main(void)
     int guess;
     srand( (unsigned)time( NULL ) );
     int result = rand() % 100;
-    printf("%d\n", result);  /*调试代码，记得删掉*/
 
 
     while (guess != result)
@@ -83,7 +82,6 @@ int main(void)
         }
     }
 
-    printf("%d", result);  /*调试代码，记得删掉*/
     if (result <= 50)
     {
         printf("很好\n就是它了！\n说着，你一刀砍向恶龙\n最终把恶龙击败了\n打败恶龙后，你看到了恶龙的无数钱财\n你想也没想就坐上了恶龙的座椅\n慢慢地，你变成了一条龙。\n一条恶龙。\n就这样，这个故事永无止境的循环下去\n永远都没有结束。。。。。。\nFin.\n");
