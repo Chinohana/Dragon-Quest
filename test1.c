@@ -46,7 +46,7 @@ int main(void)
 
 
     int guess;
-    srand( (unsigned)time( NULL ) );
+    srand( (unsigned)time( NULL ) );  /*随机数（我也不知道什么意思，反正别人怎么写我就照抄）*/
     int result = rand() % 100;
 
 
