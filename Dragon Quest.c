@@ -4,8 +4,8 @@
 
 int main(void)
 {
-    printf("---------------------血花crazy制作---------------------\n");
-    printf("公告栏：本游戏为血花crazy制作的C语言版本，可能有一定bug和功能不完善，这是因为作者对C语言不熟悉，非常抱歉。如果遇到bug，请发邮件给作者：xhcarzy@outlook.com。游戏的源代码上传到了github，我的github账号是https://github.com/13809044938\n");
+    printf("---------------------血花Chinohana制作---------------------\n");
+    printf("公告栏：本游戏为血花Chinohana制作的C语言版本，可能有一定bug和功能不完善，这是因为作者对C语言不熟悉，非常抱歉。如果遇到bug，请发邮件给作者：xhcarzy@outlook.com。游戏的源代码上传到了github，我的github账号是https://github.com/13809044938\n");
     printf("你好，欢迎来到这款游戏，这是一个有剧情的猜数字游戏。\n");
     printf("系统：让我们开始吧！！\n");
     printf("系统:按enter开始\n");
